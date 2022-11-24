@@ -46,7 +46,7 @@ const Form = () => {
         <Input placeholder='Name' />
         <Input placeholder='Number' />
         <div style={{ overflow: 'hidden' }}>
-          <p>Ingliz tili darajangiz:</p>
+          <p>Ingliz tili darajangiz</p>
           <LevelBox />
         </div>
         <Button type='submit' color='blue' appearance='primary'>
